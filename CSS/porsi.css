@@ -1,0 +1,390 @@
+body{position: absolute;
+    width: 2056px;
+    height: 5264px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background: #FFFFFF;
+}
+.imagen9, .imagen8,.imagen7,.imagen6, 
+.imagen5,.imagen4,.imagen3,.imagen1,h1,h2,
+.imagen10,.imagen11,.imagen12,.imagen13,.imagen14,.imagen15,.imagen16,.imagen17{
+    position:relative;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+h2{
+ display: block;
+ width:2056px;
+ height:61px;
+ padding-top: 4px;
+ padding-bottom: 1px;
+ padding-left: 67px;
+ margin: 0px;
+ background: #1CD1B0; 
+ box-sizing: border-box;
+ color: black;
+ font-size: 48px;
+ line-height: 56px;
+}
+h1{
+ display: block;
+ width:2056px;
+ height: 162px;
+ background:  #00669F;
+ color: #FFFFFF;
+ font-size: 72px;
+ padding-left:67px;
+ padding-top:  39px;
+ padding-bottom: 39px;
+ margin:  0px;
+ box-sizing: border-box;
+}
+
+.imagen0{
+    background-image: url("../img/bg-batman.jpg");
+    background-size: 180%;
+    position: absolute;
+    width: 806px;
+    height: 555px;
+    margin-left: 625px;
+    margin-top: 47px;
+    margin-right: 625px;
+    border-radius: 67px;
+   background-position: left 75% bottom 43% ;
+    z-index: 10;
+ }
+
+ .imagen2{
+     display: block;
+     position: absolute; 
+    margin-left: 682px;
+    margin-top: 313.19px;
+     height: 58.624202728271484px;
+    width: 67px;
+    left: 0px;
+    top: 4.1875px;
+    border-radius: 0px;
+    z-index: 20;
+}
+
+.imagen1{
+    background-image: url("../img/batman.jpg");
+    width: 359px;
+    height: 352px;
+    z-index: 80;
+    margin-left: 852px;
+    margin-top: 350px;
+    border-radius: 100%;
+    background-repeat: no-repeat;  
+    background-position: 58% top;   
+}
+
+.imagen3{
+    width: 805px;
+    height: 872px;
+    background-color: #F3F3F3;
+    z-index: 50;
+    margin-left: 626px;
+    margin-right: 625px;
+    margin-top: -160px;
+    border-radius: 4px;
+}
+.imagen4{
+    text-transform: uppercase;
+    width: 284px;
+    height: 84px;
+    margin-top: -690px;
+    margin-left: 886px;
+    margin-right: 886px;
+    z-index: 60;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000; 
+}
+.imagen5{
+    width: 718px;
+    height: 348px;
+    z-index: 60;
+    font-size: 36px;
+    Line-height: 42.19px;
+    margin-left: 669px;
+    margin-right: 669px;
+    margin-top: -60px;  
+    margin-bottom: 50px;
+}
+.imagen6{
+    width: 346px;
+    height: 114px;
+    margin-left: 855px;
+    margin-right: 855px;
+    border-radius: 7px;
+    background-color:#00669F ;
+    z-index: 60;
+    margin-top: -0px;
+}
+.imagen7{
+    z-index: 65;
+    width: 133px;
+    height: 42px;
+    margin-left: 962px;
+    margin-right: 962px;
+    font-size: 36px;
+    Line-height: 42.19px; 
+    color: #F3F3F3;
+    margin-top: -92px;
+}
+.imagen8{
+    background-color: #00669F;
+    width: 150px;
+    height: 150px;
+    margin-left: 1800px;
+    margin-right: 106px;
+    margin-top: 100px;
+    border-radius: 100px;
+    z-index: 10;
+}
+.imagen9{
+    z-index: 15;
+    width: 55px;
+    height: 113px;
+    margin-left: 1847px;
+    max-width: 154px;
+    font-size: 96px;
+    Line-height: 112.5px;
+    color: #ffff;
+    margin-top: -145px;
+}
+.imagen10{
+    background-image: url("../img/bg-wonderw.jpg");
+    background-size: 180%;
+    position: absolute;
+    width: 806px;
+    height: 555px;
+    margin-left: 625px;
+    margin-top: -40px;
+    margin-right: 625px;
+    border-radius: 67px;
+   background-position: left 75% bottom 43% ;
+    z-index: -100;
+ }
+ .imagen11{
+    display: block;
+    position: absolute; 
+   margin-left: 682px;
+   margin-top: 1886.19px;
+    height: 58.624202728271484px;
+   width: 67px;
+   left: 0px;
+   top: 4.1875px;
+   border-radius: 0px;
+   z-index: 20;
+}
+.imagen12{
+    background-image: url("../img/wonderw.jpg");
+    width: 359px;
+    height: 352px;
+    z-index:110;
+    margin-left: 852px;
+    margin-top: 350px;
+    border-radius: 100%;
+    background-size: 750px;
+    background-position: center top;   
+} 
+.imagen13{
+    width: 805px;
+    height: 872px;
+    background-color: #F3F3F3;
+    z-index: -80;
+    margin-left: 626px;
+    margin-right: 625px;
+    margin-top: -160px;
+    border-radius: 4px;
+}
+.imagen14{
+    text-transform: uppercase;
+    width: 643px;
+    height: 84px;
+    margin-top: -690px;
+    margin-left: 708px;
+    margin-right: 886px;
+    z-index: 60;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000; 
+}
+.imagen15{
+    width: 718px;
+    height: 348px;
+    z-index: 60;
+    font-size: 36px;
+    Line-height: 42.19px;
+    margin-left: 670px;
+    margin-right: 668px;
+    margin-top: -48px;  
+    margin-bottom: 50px;
+}
+.imagen16{
+    width: 346px;
+    height: 114px;
+    margin-left: 855px;
+    margin-right: 855px;
+    border-radius: 7px;
+    background-color:#00669F ;
+    z-index: 60;
+    margin-top: -13px;
+}
+.imagen17{
+    z-index: 65;
+    width: 133px;
+    height: 42px;
+    margin-left: 962px;
+    margin-right: 962px;
+    font-size: 36px;
+    Line-height: 42.19px; 
+    color: #F3F3F3;
+    margin-top: -92px;
+}
+.imagen18{
+    position: relative;
+    background-image: url("../img/bg-superman.jpg");
+    background-size: 180%;
+    position: absolute;
+    width: 806px;
+    height: 555px;
+    margin-left: 625px;
+    margin-top: -1655px;
+    margin-right: 625px;
+    border-radius: 67px;
+    background-position: left 75% bottom 43% ;
+    z-index: 0;
+ }
+ .imagen19{
+    display: block;
+    position: relative; 
+    margin-left: 682px;
+    margin-top: 1886.19px;
+    height: 58.624202728271484px;
+    width: 67px;
+    left: 0px;
+    top: -1540px;
+    border-radius: 0px;
+    z-index: 1000;
+}
+.imagen20{
+    position: relative;
+    background-image: url("../img/superman.jpg");
+    width: 359px;
+    height: 352px;
+    z-index:110;
+    margin-left: 852px;
+    margin-top: -1350px;
+    border-radius: 100%;
+    background-size: 830px;
+    background-position: center left -200px;   
+} 
+.imagen21{
+    position: relative;
+    width: 805px;
+    height: 872px;
+    background-color: #F3F3F3;
+    z-index: 50;
+    margin-left: 626px;
+    margin-right: 625px;
+    margin-top: -170px;
+    border-radius: 4px;
+}
+.imagen22{
+    position: relative;
+    text-transform: uppercase;
+    width: 284px;
+    height: 84px;
+    margin-top: -700px;
+    margin-left: 839px;
+    margin-right: 886px;
+    z-index: 60;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000; 
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.imagen23{
+    position: relative;
+    width: 718px;
+    height: 348px;
+    z-index: 60;
+    font-size: 36px;
+    Line-height: 42.19px;
+    margin-left: 670px;
+    margin-right: 669px;
+    margin-top: -40px;  
+    margin-bottom: 50px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.imagen24{
+    position: relative;
+    width: 346px;
+    height: 114px;
+    margin-left: 855px;
+    margin-right: 855px;
+    border-radius: 7px;
+    background-color:#00669F ;
+    z-index: 60;
+    margin-top: -5px;
+}
+.imagen25{
+    position: relative;
+    z-index: 65;
+    width: 133px;
+    height: 42px;
+    margin-left: 962px;
+    margin-right: 962px;
+    font-size: 36px;
+    Line-height: 42.19px; 
+    color: #F3F3F3;
+    margin-top: -92px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.imagen26{
+    position: relative;
+    width: 2056px;
+    height: 162px;
+    background-color: #00669F;
+    border-radius: 4px;
+    top: 406px;
+    z-index: -100;
+}
+.imagen27{
+    position: relative;
+    width: 780px;
+    height: 42px;
+    Font-size: 36px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFF9F9;
+    text-align: center;
+    top:265px;
+    margin-left: 648px;
+}
+.imagen28{
+    background-image:url("../img/github.png");
+    width: 248.11px;
+    height: 67.36px;
+    margin-left: 1730px;
+    margin-top: 212px;
+   
+    z-index: 100;
+}
